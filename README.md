@@ -1,2 +1,2 @@
 # ec2-loginjoindb2 
-# test1
+# test2
