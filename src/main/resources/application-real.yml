@@ -1,4 +1,4 @@
-# nginx 무중단 배포용 - 실서버용 real1, real2
+# nginx 무중단 배포용  - 실서버용 real1, real2
 
 # default
 spring:
